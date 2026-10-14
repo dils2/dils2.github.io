@@ -160,3 +160,5 @@ loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 stroeer.com, 17379, RESELLER
+
+OWNERDOMAIN=dils2.github.io
